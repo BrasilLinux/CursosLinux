@@ -9,6 +9,30 @@ https://telegram.me/CentraldeRedesVault
 
 ## Cursos diversos
 
+* [Curso RPDS Linux Basic]
+
+### Servidor do MEGA
+[Parte 1](https://mega.nz/#!DdIC0CCa!AOLmgACQkKoYj7scJYH2fQBoY1UAI2XpGA4IriXk5r0)
+[Parte 2](https://mega.nz/#!6BpFVSTJ!ANpC1QBpoYYwyDmVDD16kwBa_wEAF1WMMLbsdQwBW2g)
+[Parte 3](https://mega.nz/#!TYJUUDYY!AIJtNgDYo_uEH4DBRR-xGgAfkk4A7Cp8hHK7k0X27gA)
+
+### Servidor do Rapidgator
+[Parte 1](http://rapidgator.net/file/1dc61f10d08a80c7b57d5db33d65da77/rpds.linux.basic.inter.avan.part1.rar.html)
+[Parte 2](http://rapidgator.net/file/8d880356dcb3f70c5cce6d9ff7003405/rpds.linux.basic.inter.avan.part2.rar.html)
+[Parte 3](http://rapidgator.net/file/242b04047abca213e12ee9448b39b3fe/rpds.linux.basic.inter.avan.part3.rar.html)
+
+
+### Servidor do uploaded
+[Parte 1](http://uploaded.net/file/a6cz7qrd)
+[Parte 2](http://uploaded.net/file/5ffanc5f)
+[Parte 3](http://uploaded.net/file/toekuu39)
+
+### Servidor do DepositFiles
+[Parte 1](http://dfiles.eu/files/k285pda9s)
+[Parte 2](http://dfiles.eu/files/l848gse1d)
+[Parte 3](http://dfiles.eu/files/kg8os3a7k)
+
+
 * [Material Kali Linux](https://mega.nz/#F!XIlWVSaY!rb7sWTtTPCA1yPTPR9yHLw)
 
 * [Curso de Linux (COMPLETO)](https://mega.nz/#F!vFM0mSBA!NHUql9AZDBviFCEVJayNtw)
