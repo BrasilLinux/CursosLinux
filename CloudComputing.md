@@ -14,7 +14,7 @@ Idioma*: **Português**
 
 Fabricante: **CertificaçãoLinux**
 
-Site Oficial: **http://www.certifica...cricao.php?id=4**
+Site Oficial: **certifica...cricao.php?id=4**
 
 
 Tamanho do arquivo: **621 MB**
