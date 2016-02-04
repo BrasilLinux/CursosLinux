@@ -10,6 +10,7 @@ https://telegram.me/CentraldeRedesVault
 ## Cursos diversos
 
 * Curso RPDS Linux Basic
+
 Servidor do MEGA
 [Parte 1](https://mega.nz/#!DdIC0CCa!AOLmgACQkKoYj7scJYH2fQBoY1UAI2XpGA4IriXk5r0)
 [Parte 2](https://mega.nz/#!6BpFVSTJ!ANpC1QBpoYYwyDmVDD16kwBa_wEAF1WMMLbsdQwBW2g)
